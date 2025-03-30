@@ -1,7 +1,0 @@
-Name: 1
-Age: 1
-Height: 1.0
-Weight: 1.0
-Steps: 1
-Water intake: 1
-Heart rate: 1

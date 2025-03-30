@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Harry",
+        "Age": 19,
+        "Height": 1.4,
+        "Weight": 65.0,
+        "Steps": 10,
+        "Water intake": 2,
+        "Heart rate": 69,
+        "Bmi": "33.16"
+    },
+    {
+        "Name": "Harry",
+        "Age": 19,
+        "Height": 1.4,
+        "Weight": 65.0,
+        "Steps": 10,
+        "Water intake": 2,
+        "Heart rate": 69,
+        "Bmi": "33.16"
+    }
+]
